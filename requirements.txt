@@ -19,4 +19,6 @@ chromadb
 faiss-cpu
 wikipedia
 arxiv
+PyPDF2
+langchain_google_genai
 
